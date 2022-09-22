@@ -316,6 +316,10 @@ PrefabInstance:
       propertyPath: leftAndRightEdge
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 4481255103597789748, guid: cd0a5e646d6744d7abbba869e4d70a7e, type: 3}
+      propertyPath: chanceToChangeDirections
+      value: 0.02
+      objectReference: {fileID: 0}
     - target: {fileID: 7280789707030476716, guid: cd0a5e646d6744d7abbba869e4d70a7e, type: 3}
       propertyPath: m_Name
       value: AppleTree
