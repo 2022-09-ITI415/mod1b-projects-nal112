@@ -20,4 +20,5 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00-Scenes/Main-ApplePicker.unity
     guid: f14883b1204584bd2abc1c07423b7b32
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a1e10b8704dce4719aa4e7942141ab34, type: 2}
